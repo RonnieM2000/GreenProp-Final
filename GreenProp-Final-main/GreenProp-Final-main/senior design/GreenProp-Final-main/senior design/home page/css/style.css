@@ -1,0 +1,122 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color:#151515ba;
+    font-family: 'Arial';
+}
+.login{
+        width: 382px;
+        overflow: hidden;
+        margin: auto;
+        margin: 20 0 0 450px;
+        padding: 80px;
+        background: #23463f;
+        border-radius: 15px ;
+
+}
+h2{
+    text-align: center;
+    color: #277582;
+    padding: 20px;
+}
+label{
+    color: #08ffd1;
+    font-size: 17px;
+}
+#Uname{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+}
+#Pass{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+
+}
+#log{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+    color: blue;
+
+
+}
+span{
+    color: white;
+    font-size: 17px;
+}
+a{
+    float: right;
+    background-color: grey;
+}
+header{
+    width: 100%;
+    min-height: 500px;
+    background-image: url('../images/Image.png');
+    background-color: white;
+    background-repeat: none;
+    background-size:cover;
+    display: inline-block;
+
+}
+
+nav{
+    background-repeat: no-repeat;
+    background-image: url();
+    background-size: 60px;
+    padding-top: 10px;  
+}
+
+header div a{
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 2px;
+    background-color: rgb(0, 0, 166);
+    color: white;
+    padding: 10px 20px;
+}
+
+header div h2{
+    font-size: 48px;
+    color: white;
+}
+header div p{
+    font-size: 24px;
+    color: white;
+
+}
+
+header nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    margin-left:100px ;
+    font-size: bold;
+    font-weight: bold;
+}
+
+header nav ul li a:hover{
+    color:#c1bfbf;
+}
+header nav ul{
+    list-style-type: none;
+
+}
+
+header nav ul li{
+    margin-top: 30px;
+    display:inline-block;
+
+}
+
+header div {
+    margin-top: 100px;
+    margin-left: 100px;
+}
